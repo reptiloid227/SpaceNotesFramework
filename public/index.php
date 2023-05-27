@@ -9,5 +9,5 @@ require_once HELPERS . '/functions.php';
 require_once CONFIG . '/routes.php';
 
 new \SNFW\App();
-
-debug(\SNFW\Router::getRoutes());
+//
+//debug(\SNFW\Router::getRoutes());
