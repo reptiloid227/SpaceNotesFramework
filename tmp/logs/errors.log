@@ -68,3 +68,9 @@
 ======
 [2023-05-53 22:44:53] Текст ошибки: Контроллер App\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 38
 ======
+[2023-05-00 23:00:00] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
+[2023-05-02 23:00:02] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
+[2023-05-11 23:00:11] Текст ошибки: Контроллер App\controllers\ProductController не найден | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 50
+======
