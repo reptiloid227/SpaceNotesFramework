@@ -2,7 +2,9 @@
 
 namespace App\controllers;
 
-class MainController
+use SNFW\Controller;
+
+class MainController extends Controller
 {
     public function indexAction()
     {
