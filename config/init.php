@@ -11,7 +11,7 @@ define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 
-define("LAYOUT", 'snShop');
+define("LAYOUT", 'default');
 define("PATH", 'http://spacenotes-framework.loc');
 define("ADMIN", 'http://spacenotes-framework.loc/admin');
 define("NO_IMAGE", 'uploads/no_image.jpg');
