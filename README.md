@@ -1,2 +1,4 @@
 # SpacenotesFramework
-Мой PHP-фреймворк, для углубления знаний PHP MVC ООП
+Мой PHP-фреймворк ООП, MVC, Singleton
+
+
