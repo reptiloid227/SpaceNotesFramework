@@ -1,7 +1,7 @@
 <?php
 
 
-define("DEBUG_MODE", false);
+define("DEBUG_MODE", true);
 define("ROOT", dirname(__DIR__));
 define("WWW", ROOT . '/public');
 define("APP", ROOT . '/app');
@@ -15,6 +15,5 @@ define("LAYOUT", 'snShop');
 define("PATH", 'http://spacenotes-framework.loc');
 define("ADMIN", 'http://spacenotes-framework.loc/admin');
 define("NO_IMAGE", 'uploads/no_image.jpg');
-
 
 require_once ROOT . '/vendor/autoload.php';
