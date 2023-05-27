@@ -20,3 +20,5 @@
 ======
 [2023-05-49 18:58:49] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
 ======
+[2023-05-41 21:45:41] Текст ошибки: SNFW\Router::matchRoute(): Return value must be of type bool, none returned | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 41
+======
