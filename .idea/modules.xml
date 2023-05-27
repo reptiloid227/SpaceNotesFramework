@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spacenotes-framework.iml" filepath="$PROJECT_DIR$/.idea/spacenotes-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spacenotes-framework.loc.iml" filepath="$PROJECT_DIR$/.idea/spacenotes-framework.loc.iml" />
     </modules>
   </component>
 </project>
