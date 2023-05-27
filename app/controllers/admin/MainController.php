@@ -2,9 +2,11 @@
 
 namespace App\controllers\admin;
 
-class MainController
+use SNFW\Controller;
+
+class MainController extends Controller
 {
     public function indexAction(){
-        echo "Админ-панель";
+
     }
 }

@@ -76,3 +76,21 @@
 ======
 [2023-05-15 00:47:15] Текст ошибки: Undefined array key "contoller" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 21
 ======
+[2023-05-42 01:16:42] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-27 01:17:27] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-56 01:17:56] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/Main/index.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 31
+======
+[2023-05-02 01:24:02] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-50 01:24:50] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/test.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-42 01:25:42] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-50 01:26:50] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-51 01:26:51] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======
+[2023-05-51 01:26:51] Текст ошибки: Не найден шаблон C:\OSPanel\domains\spacenotes-framework.loc/app/views/layout/snShop.php | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\View.php | Строка: 41
+======

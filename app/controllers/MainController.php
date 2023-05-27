@@ -8,6 +8,6 @@ class MainController extends Controller
 {
     public function indexAction()
     {
-        echo "Это главная страница";
+        $this->layout = 'default';
     }
 }
