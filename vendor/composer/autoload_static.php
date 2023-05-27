@@ -11,6 +11,10 @@ class ComposerStaticInit53ffa8db38c5b0ceb24848541b99975e
         array (
             'SNFW\\' => 5,
         ),
+        'R' => 
+        array (
+            'RedBeanPHP\\' => 11,
+        ),
         'A' => 
         array (
             'App\\' => 4,
@@ -21,6 +25,10 @@ class ComposerStaticInit53ffa8db38c5b0ceb24848541b99975e
         'SNFW\\' => 
         array (
             0 => __DIR__ . '/..' . '/snfw',
+        ),
+        'RedBeanPHP\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/gabordemooij/redbean/RedBeanPHP',
         ),
         'App\\' => 
         array (
