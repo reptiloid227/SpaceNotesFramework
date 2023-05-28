@@ -39,10 +39,10 @@ class Router
         if (self::matchRoute($url)){
             $controller = 'App\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
             if(class_exists($controller)){
-                $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                 /** @var Controller $controllerObject */
                 $controllerObject = new $controller(self::$route);
                 $controllerObject->getModel();
+                $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                 if (method_exists($controllerObject, $action)){
                     $controllerObject->$action();
                     $controllerObject->getView();
