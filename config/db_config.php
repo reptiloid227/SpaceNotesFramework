@@ -1,5 +1,5 @@
 <?php
-
+// Доступы БД
 return [
     'dsn' => 'mysql:host=localhost;dbname=spacenotes',
     'user' => 'os_adm',
