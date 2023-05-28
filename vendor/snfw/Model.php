@@ -4,9 +4,8 @@ namespace SNFW;
 
 abstract class Model
 {
-
     public array $attributes = [];
-    public array $errors = [];
+    public array $modelerrors = [];
     public array $rules = [];
     public array $labels = [];
 
@@ -14,5 +13,4 @@ abstract class Model
     {
         Database::getInstance();
     }
-
 }

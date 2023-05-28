@@ -10,16 +10,17 @@ class Database
 
     private function __construct()
     {
-        $db = require_once CONFIG . '/database.php';
+        $db = require_once CONFIG . '/db_config.php';
         R::setup($db['dsn'], $db['user'], $db['password']);
         if(!R::testConnection()){
-            throw new \Exception('Не удалось соединиться с базой данных', 500);
+            throw new \Exception("Ошибка соединения с базой данных", 500);
+
         }
-        R::freeze(true);
+
+        R::freeze();
+
         if(DEBUG_MODE){
             R::debug(true, 3);
         }
-
     }
-
 }

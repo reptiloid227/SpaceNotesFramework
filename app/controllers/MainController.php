@@ -1,16 +1,18 @@
 <?php
 
-namespace App\controllers;
+namespace app\controllers;
 
-use RedBeanPHP\R;
+
+use app\models\Main;
 use SNFW\Controller;
 
 class MainController extends Controller
 {
     public function indexAction()
     {
-        $names = R::findAll('name');
+        /** @property Main $model */
+        $names = $this->model->getNames();
         $this->setMeta('Главная страница', 'Description', 'key, word');
-        $this->set(compact($names));
+        $this->set(compact('names'));
     }
 }
