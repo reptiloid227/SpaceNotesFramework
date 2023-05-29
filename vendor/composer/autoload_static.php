@@ -7,13 +7,13 @@ namespace Composer\Autoload;
 class ComposerStaticInit53ffa8db38c5b0ceb24848541b99975e
 {
     public static $prefixLengthsPsr4 = array (
-        'S' => 
-        array (
-            'SNFW\\' => 5,
-        ),
         'R' => 
         array (
             'RedBeanPHP\\' => 11,
+        ),
+        'C' => 
+        array (
+            'CORE\\' => 5,
         ),
         'A' => 
         array (
@@ -22,13 +22,13 @@ class ComposerStaticInit53ffa8db38c5b0ceb24848541b99975e
     );
 
     public static $prefixDirsPsr4 = array (
-        'SNFW\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/snfw',
-        ),
         'RedBeanPHP\\' => 
         array (
             0 => __DIR__ . '/..' . '/gabordemooij/redbean/RedBeanPHP',
+        ),
+        'CORE\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/CORE',
         ),
         'App\\' => 
         array (

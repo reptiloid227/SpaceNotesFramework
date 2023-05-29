@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "SNFW\\": "vendor/snfw",
+      "CORE\\": "vendor/CORE",
       "App\\": "app"
     }
   },

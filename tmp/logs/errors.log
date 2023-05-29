@@ -20,7 +20,7 @@
 ======
 [2023-05-49 18:58:49] Текст ошибки: Ошибка возникла | Файл: C:\OSPanel\domains\spacenotes-framework.loc\public\index.php | Строка: 11
 ======
-[2023-05-41 21:45:41] Текст ошибки: SNFW\Router::matchRoute(): Return value must be of type bool, none returned | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 41
+[2023-05-41 21:45:41] Текст ошибки: CORE\Router::matchRoute(): Return value must be of type bool, none returned | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 41
 ======
 [2023-05-34 22:19:34] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Router.php | Строка: 29
 ======
@@ -110,7 +110,7 @@
 ======
 [2023-05-35 01:29:35] Текст ошибки: Не удалось найти модель C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
 ======
-[2023-05-38 01:30:38] Текст ошибки: Typed property SNFW\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
+[2023-05-38 01:30:38] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
 ======
 [2023-05-54 01:30:54] Текст ошибки: Не удалось найти модель C:\OSPanel\domains\spacenotes-framework.loc\app\models\Main | Файл: C:\OSPanel\domains\spacenotes-framework.loc\vendor\snfw\Controller.php | Строка: 25
 ======
@@ -154,13 +154,13 @@
 ======
 [2023-05-02 01:55:02] Текст ошибки: Array to string conversion | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\views\Main\index.php | Строка: 2
 ======
-[2023-05-50 01:57:50] Текст ошибки: Typed property SNFW\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+[2023-05-50 01:57:50] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
 ======
-[2023-05-41 01:59:41] Текст ошибки: Typed property SNFW\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+[2023-05-41 01:59:41] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
 ======
-[2023-05-18 02:00:18] Текст ошибки: Typed property SNFW\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+[2023-05-18 02:00:18] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
 ======
-[2023-05-19 02:00:19] Текст ошибки: Typed property SNFW\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
+[2023-05-19 02:00:19] Текст ошибки: Typed property CORE\Controller::$model must not be accessed before initialization | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 12
 ======
 [2023-05-32 02:00:32] Текст ошибки: compact(): Undefined variable $names | Файл: C:\OSPanel\domains\spacenotes-framework.loc\app\controllers\MainController.php | Строка: 14
 ======

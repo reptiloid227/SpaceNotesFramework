@@ -5,5 +5,6 @@ use \CORE\View;
 /** @var $this View */
 
 ?>
-<?php echo $this->content ?>
-
+<?php $this->getDatabaseLogs(); ?>
+</body>
+</html>

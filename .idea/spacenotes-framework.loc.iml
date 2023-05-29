@@ -6,9 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/snfw" isTestSource="false" packagePrefix="SNFW\" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/CORE" isTestSource="false" packagePrefix="CORE\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/gabordemooij/redbean" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/snfw/helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/CORE/helpers" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

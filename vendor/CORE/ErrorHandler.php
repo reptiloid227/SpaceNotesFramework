@@ -1,6 +1,6 @@
 <?php
 
-namespace SNFW;
+namespace CORE;
 
 class ErrorHandler
 {

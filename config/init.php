@@ -5,7 +5,7 @@ define("DEBUG_MODE", true);
 define("ROOT", dirname(__DIR__));
 define("WWW", ROOT . '/public');
 define("APP", ROOT . '/app');
-define("CORE", ROOT . '/vendor/snfw');
+define("CORE", ROOT . '/vendor/CORE');
 define("HELPERS", CORE . '/helpers');
 define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');

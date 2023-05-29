@@ -1,6 +1,8 @@
 <?php
 
-namespace SNFW;
+namespace CORE;
+
+use RedBeanPHP\R;
 
 class View
 {
@@ -50,6 +52,19 @@ class View
         $out .= '<meta name = "keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
 
+    }
+
+    public function getDatabaseLogs(){
+        if(DEBUG_MODE){
+            $logs = R::getDatabaseAdapter()->getDatabase()->getLogger();
+            $logs = array_merge(
+                $logs->grep('SELECT'),
+                $logs->grep('INSERT'),
+                $logs->grep('UPDATE'),
+                $logs->grep('DELETE'),
+            );
+            debug($logs);
+        }
     }
 
 }

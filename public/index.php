@@ -8,6 +8,6 @@ require_once dirname(__DIR__) . '/config/init.php';
 require_once HELPERS . '/functions.php';
 require_once CONFIG . '/routes.php';
 
-new \SNFW\App();
+new \CORE\App();
 //
-//debug(\SNFW\Router::getRoutes());
+//debug(\CORE\Router::getRoutes());

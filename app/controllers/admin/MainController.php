@@ -2,7 +2,7 @@
 
 namespace App\controllers\admin;
 
-use SNFW\Controller;
+use CORE\Controller;
 
 class MainController extends Controller
 {

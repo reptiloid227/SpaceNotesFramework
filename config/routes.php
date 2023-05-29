@@ -1,6 +1,6 @@
 <?php
 
-use SNFW\Router;
+use CORE\Router;
 
 Router::add('^admin/?$', ['controller' => 'Main', 'action' => 'index', 'admin_prefix' => 'admin']);
 

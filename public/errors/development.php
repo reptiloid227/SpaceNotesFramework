@@ -2,10 +2,10 @@
 
 
 /**
- * @var $errorNumber \SNFW\ErrorHandler
- * @var $errorString \SNFW\ErrorHandler
- * @var $errorFile \SNFW\ErrorHandler
- * @var $errorLine \SNFW\ErrorHandler
+ * @var $errorNumber \CORE\ErrorHandler
+ * @var $errorString \CORE\ErrorHandler
+ * @var $errorFile \CORE\ErrorHandler
+ * @var $errorLine \CORE\ErrorHandler
  */
 
 ?>
